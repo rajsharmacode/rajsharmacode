@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))](https://rishavchanda.io)
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
 <h3 align="center">A Passionate Aspiring Web Developer from India.</h3>
 
