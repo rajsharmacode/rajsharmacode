@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg">
+<img width="100%" height="400px" src="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg">
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
 <h3 align="center">A Passionate Aspiring Web Developer from India.</h3>
 
