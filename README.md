@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)">
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
 <h3 align="center">A Passionate Aspiring Web Developer from India.</h3>
 
